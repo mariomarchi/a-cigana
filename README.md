@@ -17,7 +17,7 @@ Abaixo, deixo algumas anotações que tomei sobre as supracitadas tecnologias:
    - funciona através de tags, cujas quais cada possui sua particularidade/função
    
    Abaixo, listo as tags que utilizei nesta aplicação e descreverei suas características (conforme as entendi)
-   - "<head> </head>" = Determina o "container" onde as informações gerais (metadados) sobre o documento (título da página, quais scripts farão efeito na página, etc.)
+   - head = Determina o "container" onde as informações gerais (metadados) sobre o documento (título da página, quais scripts farão efeito na página, etc.)
 
 - CSS = Cascade Style Sheet
    - Linguagem que permite a estilização dos elementos HTML
